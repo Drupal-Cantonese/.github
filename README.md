@@ -4,7 +4,7 @@
 
 最新繁體中文版的 `Drupal 10` 使用者指南，使用 `markdown` 編寫。
 
-💡 本文檔是 `ONEXIN TEAM` 翻譯的繁體中文版。 如果發現有什麼不一致或者錯誤的地方，請以原文檔為準。
+💡 本文檔是 [Cantonese translation team](https://github.com/Drupal-Cantonese/) 翻譯的繁體中文版。 如果發現有什麼不一致或者錯誤的地方，請以原文檔為準。
 
 If you need to view the original English version, please refer to Drupal's official website. https://www.drupal.org/docs/user_guide/en/index.html
 
