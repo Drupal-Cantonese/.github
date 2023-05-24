@@ -2,7 +2,7 @@
 
 [![Join the chat at https://gitter.im/Drupal-Cantonese/Drupal-Cantonese.github.io](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Drupal-Cantonese/Drupal-Cantonese.github.io) https://gitter.im/Drupal-Cantonese/Drupal-Cantonese.github.io
 
-最新版本的 `Drupal` 使用者指南，使用 `markdown` 編寫。
+最新繁體中文版的 `Drupal` 使用者指南，使用 `markdown` 編寫。
 
 💡 本文檔是 `ONEXIN TEAM` 翻譯的繁體中文版。 如果發現有什麼不一致或者錯誤的地方，請以原文檔為準。
 
