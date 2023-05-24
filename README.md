@@ -1,10 +1,15 @@
 # Drupal 使用者指南, 目前 Drupal 10
 
+[![Join the chat at https://gitter.im/Drupal-Cantonese/Drupal-Cantonese.github.io](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Drupal-Cantonese/Drupal-Cantonese.github.io) https://gitter.im/Drupal-Cantonese/Drupal-Cantonese.github.io
+
 最新版本的 `Drupal` 使用者指南，使用 `markdown` 編寫。
 
 💡 本文檔是 `ONEXIN TEAM` 的翻譯版。 如果發現有什麼不一致或者錯誤的地方，請以原文檔為準。
 
 If you need to view the original English version, please refer to Drupal's official website. https://www.drupal.org/docs/user_guide/en/index.html
+
+Copyright (c) 2023 by the Hong Kong Cantonese translation team, https://github.com/Drupal-Cantonese/
+
 
 # Who am? 😘
 A young man, 
