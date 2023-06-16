@@ -10,7 +10,7 @@ Copyright (c) 2023 by the Hong Kong Cantonese translation team, https://github.c
 
 ### Thanks
 2023.05.31
-多謝 [@eojthebrave](https://www.drupal.org/u/eojthebrave) 提供了一個顯示圖片的解決方案。[user_guide/issues/3361752](https://www.drupal.org/project/user_guide/issues/3361752#comment-15084319)
+感謝 [@eojthebrave](https://www.drupal.org/u/eojthebrave) 提供了一個顯示圖片的解決方案。[user_guide/issues/3361752](https://www.drupal.org/project/user_guide/issues/3361752#comment-15084319)
 
 # Who am? 😘
 A young man, 
